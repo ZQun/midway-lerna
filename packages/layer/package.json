@@ -1,0 +1,14 @@
+{
+    "name": "layer",
+    "version": "1.0.0",
+    "description": "this is a push fun",
+    "dependencies": {
+        "egg": "^2.20.2",
+        "egg-cors": "^2.2.3",
+        "moment": "^2.29.1",
+        "tutils": "^2.1.4"
+    },
+    "main": "index.js",
+    "types": "index.d.ts",
+    "egg": {}
+}
